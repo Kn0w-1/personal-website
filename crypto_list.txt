@@ -1,0 +1,9 @@
+Bitcoin
+Ethereum
+Cardano
+Polkadot
+Dogecoin
+Solana
+Near
+Avalanche
+XRP
